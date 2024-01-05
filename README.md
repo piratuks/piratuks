@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @piratuks
-- 👀 I’m interested in various interesting and challenging projects.
-- 🌱 I’m currently learning C++, Python Django and Java Spring Boot.
-- 💞️ I’m looking to collaborate. If you wanna to collaborate on a project and etc please reach me out.
-- 📫 if you want to contact me then ping me a message on https://www.linkedin.com/in/evaldas123456/ or via email evaldiz@gmail.com
-- https://piratuks.github.io/portfolio/dashboard
+- 👋 Hello, I'm <b>@piratuks</b>.
+- 👀 I have a keen interest in undertaking diverse and challenging projects.
+- 🌱 Currently, I am deepening my expertise in <b>C++, Python Django, and Java Spring Boot</b>.
+- 💼 I am actively seeking collaborative opportunities. If you have a project or initiative in mind, feel free to reach out.
+- 📧 You can contact me via [LinkedIn](https://www.linkedin.com/in/evaldas123456/) or through email at evaldiz@gmail.com.
+- 🌐 Explore my professional [portfolio](https://piratuks.github.io/portfolio/dashboard).
 
 <!---
 piratuks/piratuks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
