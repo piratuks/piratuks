@@ -5,7 +5,6 @@
 - 🎮 Passionate Unity Engine enthusiast, crafting immersive experiences and innovative gameplay!
 - 📧 You can contact me via [LinkedIn](https://www.linkedin.com/in/evaldas123456/) or through email at evaldiz@gmail.com.
 - 🌐 Explore my professional [portfolio](https://piratuks.com).
-- 
 
 <!---
 piratuks/piratuks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
