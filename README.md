@@ -7,7 +7,7 @@
 - 🌐 Explore my professional [portfolio](https://piratuks.com).
 - 🎮 My own game:
   - [Apple](https://apps.apple.com/app/super-animals-no-wifi/id6740871343)
-  - Android
+  - [Android](https://play.google.com/store/apps/details?id=com.piratuks.superanimals)
 
 <!---
 piratuks/piratuks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
