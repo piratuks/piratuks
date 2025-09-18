@@ -13,7 +13,10 @@
  
 ## Visual Insights into My GitHub Stats 📊
 <div align="center">
+ <!-- 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piratuks&theme=midnight-purple&layout=compact&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=F85D7F" alt="Most Used Languages">
+  -->
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piratuks&theme=solarized_dark&hide_border=true" alt="GitHub Profile Summary Cards">
 </div>
 
