@@ -7,9 +7,6 @@
 - 🎮 Passionate Unity Engine enthusiast, crafting immersive experiences and innovative gameplay!
 - 📧 You can contact me via [LinkedIn](https://www.linkedin.com/in/evaldas123456/) or through email at evaldiz@gmail.com.
 - 🌐 Explore my professional [portfolio](https://piratuks.com).
-- 🎮 My own game:
-  - [Apple](https://apps.apple.com/app/super-animals-no-wifi/id6740871343)
-  - [Android](https://play.google.com/store/apps/details?id=com.piratuks.superanimals)
  
 ## Visual Insights into My GitHub Stats 📊
 <div align="center">
