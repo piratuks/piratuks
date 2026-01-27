@@ -1,3 +1,5 @@
+[![Profile Views](https://komarev.com/ghpvc/?username=piratuks&color=6EB891&style=flat-square&label=Profile%20Views)](https://github.com/piratuks)
+
 ![Piratuks](https://github.com/piratuks/piratuks/blob/main/header.jpeg?raw=true)
 
 - 👋 Hello, I'm <b>@piratuks</b>.
