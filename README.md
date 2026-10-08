@@ -36,7 +36,7 @@
 
 ### 📫 Connect with Me
 - 🌐 **LinkedIn:** [linkedin.com/in/evaldas](https://www.linkedin.com/in/evaldas)
-- 📧 **Email:** [evaldas.laureckas@gmail.com](mailto:evaldiz@gmail.com)
+- 📧 **Email:** [evaldiz@gmail.com](mailto:evaldiz@gmail.com)
 - 📍 **Location:** Klaipėda, Lithuania
 
 ---
