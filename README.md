@@ -1,33 +1,46 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=piratuks&color=6EB891&style=flat-square&label=Profile%20Views)](https://github.com/piratuks)
 
-![Piratuks](https://github.com/piratuks/piratuks/blob/main/header.jpeg?raw=true)
+![Piratuks Header](https://github.com/piratuks/piratuks/blob/main/header.jpeg?raw=true)
 
-- 👋 Hello, I'm <b>@piratuks</b>.
-- 👀 I have a keen interest in undertaking diverse and challenging projects.
-- 🌱 Currently, I am deepening my expertise in <b>C++, Python Django, and Java Spring Boot</b>.
-- 💼 I am actively seeking collaborative opportunities. If you have a project or initiative in mind, feel free to reach out.
-- 🎮 Passionate Unity Engine enthusiast, crafting immersive experiences and innovative gameplay!
-- 📧 You can contact me via [LinkedIn](https://www.linkedin.com/in/evaldas123456/) or through email at evaldiz@gmail.com.
- 
-## Visual Insights into My GitHub Stats 📊
-<div align="center">
- <!-- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piratuks&theme=midnight-purple&layout=compact&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=F85D7F" alt="Most Used Languages">
-  -->
+# Hi there, I'm Evaldas Laureckas 👋 
+### Lead / Senior Software Engineer • Fullstack & Cloud Architect
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piratuks&theme=algolia&hide_border=true" alt="GitHub Profile Summary Cards">
-</div>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=piratuks&theme=algolia">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=piratuks&theme=algolia&utcOffset=8">
-</div>
-<div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=piratuks&theme=react-dark&bg_color=0D1117&hide_border=true">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=22&center=true&vCenter=true&width=500&lines=14%2B+Years+of+Software+Engineering;Lead+Software+Engineer+%40+Luminor;Creator+of+Invoice+Builder+(1.3k%2B+Stars);Fintech+%26+Enterprise+Solutions" alt="Typing SVG" />
 </div>
 
-## Appreciation Note 🙏
-A heartfelt thank you to everyone who has contributed to or used my projects. Your engagement and feedback elevate the quality of my work and keep me motivated.
+---
+
+### 🚀 About Me
+
+- 💻 **Day Job:** Software Engineer- building React micro-frontends and pushing the boundaries of agentic development.
+- ⚡ **14+ Years in the Trenches:** Architected and shipped scalable systems for enterprise clients.
+- 🛠️ **Tech Stack:** TypeScript/JavaScript (React, Next.js, Node.js), .NET/C#, Python, Data Vault 2.0, PostgreSQL, Docker, and Cloud Native tooling.
+- 📦 **Featured Project:** Creator & maintainer of [Invoice Builder](https://github.com/piratuks/invoice-builder) (**1.3k+ ⭐ | 180+ 🍴**) - a cross-platform desktop e-invoicing app built with Electron, React, Node.js, and SQLite/PostgreSQL.
+- 🎓 **Background:** M.Sc. in Technological Information Systems Engineering & B.Sc. in Computer Science.
+- 🎮 **Side Quests:** Unity Engine enthusiast, 3D graphics dabbler, open-source contributor, and extreme sports addict (skydiving, snowboarding, bungee jumping).
+---
+
+### 📊 GitHub & Activity Insights
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+stopping+by!;See+you+on+GitHub!">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piratuks&theme=algolia&hide_border=true" alt="GitHub Profile Summary Cards" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=piratuks&theme=algolia" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=piratuks&theme=algolia&utcOffset=3" />
+</div>
+
+---
+
+### 📫 Connect with Me
+- 🌐 **LinkedIn:** [linkedin.com/in/evaldas](https://www.linkedin.com/in/evaldas)
+- 📧 **Email:** [evaldas.laureckas@gmail.com](mailto:evaldiz@gmail.com)
+- 📍 **Location:** Klaipėda, Lithuania
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=20&center=true&vCenter=true&width=350&lines=Thanks+for+stopping+by!;See+you+on+GitHub!" alt="Closing SVG" />
 </div>
